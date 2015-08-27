@@ -1,4 +1,5 @@
 this file is for test git lib
 thanks for using ... this is master aa.txt content
+thanks for using ...this is a dev branch edit
 我写了点中文
 togther with bbb.txt
