@@ -1,2 +1,3 @@
 this file is for test git lib
 thanks for using ...
+我写了点中文
